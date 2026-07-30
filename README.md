@@ -130,7 +130,7 @@ CGPA: **3.765 / 4.00** (4 semesters completed)
 **G.C.E. Advanced Level** — Jaffna Hindu College, Sri Lanka
 3A's (Physical Science) · District Rank 02 · Island Rank 103 · Z-score 2.662
 
-**G.C.E. Ordinary Level** — 8A's, including A in ICT
+**G.C.E. Ordinary Level** — 8A, C
 
 ---
 
