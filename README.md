@@ -23,7 +23,7 @@ Designing intelligent healthcare technologies through machine learning, embedded
 </a>
 
 <!-- Replace with your LinkedIn profile URL -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/abishek-l-5b7526300/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
