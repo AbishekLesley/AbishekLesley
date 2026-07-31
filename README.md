@@ -69,18 +69,6 @@ Biomedical Engineering Undergraduate | AI & Machine Learning | Embedded Systems 
 Designing intelligent healthcare technologies through machine learning, embedded systems, biomedical signal processing, and electronics.
 </p>
 
-<p align="center">
-
-<a href="mailto:abisheklesley@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AbishekLesley">
-<img src="https://img.shields.io/badge/GitHub-AbishekLesley-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -286,28 +274,6 @@ Designed an analog reflection-mode PPG heart rate sensor capable of measuring pu
 `LTSpice`
 `Altium Designer`
 `SolidWorks`
-
----
-
-## ❤️ Pulse Detection Monitor
-
-> **Biomedical Electronics • Embedded Systems**
-
-Developed a real-time pulse monitoring device capable of acquiring physiological pulse signals and displaying heart rate measurements.
-
-### 🔹 Highlights
-
-- Optical pulse sensing
-- Embedded signal processing
-- BPM calculation
-- OLED display
-- Portable biomedical device
-
-### 🛠 Technologies
-
-`Arduino`
-`Embedded C`
-`Biomedical Electronics`
 
 ---
 
