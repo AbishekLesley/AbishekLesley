@@ -420,50 +420,6 @@ I continuously expand my knowledge in:
 
 ---
 
-# 🎓 Education
-
----
-
-## 🏛️ University of Moratuwa
-
-**Bachelor of Science (Hons) in Biomedical Engineering**
-
-Department of Electronic & Telecommunication Engineering
-
-📍 Moratuwa, Sri Lanka
-
-**Current CGPA:** **3.765 / 4.00**
-
-### Relevant Areas of Study
-
-- Biomedical Signal Processing
-- Machine Learning
-- Medical Instrumentation
-- Embedded Systems
-- Electronics
-- Digital Signal Processing
-- Control Systems
-- Robotics
-- Medical Imaging
-- Software Engineering
-
----
-
-## 🏫 Jaffna Hindu College
-
-**G.C.E. Advanced Level (Physical Science Stream)**
-
-📍 Jaffna, Sri Lanka
-
-### Academic Achievements
-
-- 🥇 Three A Passes (Combined Mathematics, Physics & Chemistry)
-- 🏅 Island Rank **103**
-- 🏅 District Rank **02**
-- 📈 Z-Score **2.662**
-
----
-
 # 🏆 Achievements
 
 ---
@@ -482,34 +438,6 @@ Department of Electronic & Telecommunication Engineering
 - 🏅 **Island Rank:** **103**
 - 🏅 **District Rank:** **02**
 - 📈 **Z-Score:** **2.662**
-
----
-
-## 💻 Engineering & Technical Achievements
-
-- 🩺 Developed a complete **Machine Learning pipeline for PPG Signal Quality Assessment**
-- 🔐 Designed a **PPG-based biometric identification system (PulsePrint)**
-- 💻 Built a full-stack **Laboratory Management System** using Java Spring Boot
-- 🤖 Developed an autonomous **Restaurant Service Robot**
-- 🌡️ Designed an **IoT-based Vaccine Cold Chain Monitoring System**
-- ❤️ Developed multiple biomedical instrumentation and embedded system projects
-
----
-
-## 📜 Professional Development
-
-- 🏅 Completed the **Machine Learning Specialization**
-  - **DeepLearning.AI & Stanford University**
-  - Instructor: **Andrew Ng**
-
----
-
-## 🏓 Sports & Leadership
-
-- 🏆 Provincial Table Tennis Champion
-- 🥈 National Quarter Finalist
-- 🏅 Champion – All Island Table Tennis Association (D Division)
-- 🥈 Runner-up – All Island Table Tennis Association (E Division)
 
 ---
 
@@ -607,33 +535,6 @@ Engineering is more than writing code and designing circuits. I enjoy activities
 
 ---
 
-## 🏆 Table Tennis
-
-Table tennis has been an important part of my personal development, teaching me strategic thinking, consistency, and resilience under pressure.
-
-### Achievements
-
-- 🥇 Provincial Champion (U17) – 2019
-- 🥇 Provincial Champion (U21) – 2021
-- 🥇 Provincial Champion (U21) – 2022
-- 🏅 National Quarter Finalist
-- 🏆 Champion – All Island Table Tennis Association (D Division)
-- 🥈 Runner-up – All Island Table Tennis Association (E Division)
-
----
-
-## 🌱 Personal Interests
-
-- 🤖 Artificial Intelligence
-- 🩺 Biomedical Engineering
-- 💻 Software Engineering
-- 📊 Biomedical Signal Processing
-- 🔌 Embedded Systems
-- 🌐 Internet of Medical Things (IoMT)
-- 📚 Research & Innovation
-- 🚀 Open Source Development
-
----
 
 ## 💡 Philosophy
 
