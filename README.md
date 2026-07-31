@@ -187,7 +187,7 @@ Designed and developed an IoT-enabled vaccine cold chain monitoring system capab
 
 ---
 
-## ❄️ CryoThermX
+## ❄️ Smart Hot and Cold Compression Device
 
 > **Medical Device • Electronics • Temperature Control**
 
