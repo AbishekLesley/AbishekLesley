@@ -277,6 +277,7 @@ Designed an analog reflection-mode PPG heart rate sensor capable of measuring pu
 
 ---
 
+
 ## 🔋 Stable Adjustable DC Power Supply
 
 > **Power Electronics • Circuit Design**
@@ -295,120 +296,6 @@ Designed and implemented a stable regulated DC power supply for laboratory and e
 
 `Power Electronics`
 `Analog Circuit Design`
-
----
-
-## 👨‍💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab" />
-</p>
-
-- Python
-- Java
-- C
-- C++
-- MATLAB
-
----
-
-## 🤖 Machine Learning & Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Feature Engineering
-- Data Preprocessing
-- Feature Selection
-- Cross Validation
-- Hyperparameter Optimization
-- Model Evaluation
-- Statistical Analysis
-- Biomedical Signal Processing
-
-**Libraries**
-
-- Scikit-learn
-- NumPy
-- Pandas
-- SciPy
-- Matplotlib
-- TensorFlow
-
----
-
-## 💻 Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven" />
-</p>
-
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- REST APIs
-- Hibernate
-- MySQL
-- Maven
-
----
-
-## 🔌 Embedded Systems & IoT
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-- Arduino
-- ESP32
-- ESP8266
-- STM32
-- Embedded C
-- IoT System Development
-- Sensor Integration
-- UART, I2C & SPI Communication
-- PWM Motor Control
-
----
-
-## ⚡ Electronics & Biomedical Instrumentation
-
-- Analog Electronics
-- Digital Electronics
-- Biomedical Instrumentation
-- PCB Design
-- Analog Signal Conditioning
-- Active Filter Design
-- Power Electronics
-- Medical Device Development
-- Temperature Control Systems
-
----
-
-## 🛠 Engineering Software
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,latex" />
-</p>
-
-- Git
-- GitHub
-- SolidWorks
-- Altium Designer
-- LTSpice
-- LaTeX
-
----
-
-## 📚 Core Engineering Knowledge
-
-- Biomedical Signal Processing
-- Physiological Signal Analysis
-- Medical Device Design
-- Robotics
-- Embedded System Design
-- Circuit Design
-- Internet of Medical Things (IoMT)
-- Object-Oriented Programming
 
 ---
 
