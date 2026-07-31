@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,50:2A5298,100:6DD5FA&height=220&section=header&text=Abishek%20Lesley&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&section=header&text=Abishek%20Lesley&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=3AA6FF&center=true&vCenter=true&width=800&lines=Biomedical+Engineering+Undergraduate;Machine+Learning+%7C+Biomedical+AI;PPG+Signal+Processing+Research;Embedded+Systems+%7C+Medical+Device+Development;Building+Intelligent+Healthcare+Technologies"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&duration=3500&color=38BDF8&center=true&vCenter=true&width=850&lines=Biomedical+Engineering+Undergraduate;Artificial+Intelligence+%7C+Machine+Learning;Biomedical+Signal+Processing+Research;Embedded+Systems+Developer;Building+Next-Generation+Healthcare+Technologies"
       alt="Typing SVG"
     />
   </a>
@@ -11,11 +11,13 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=AbishekLesley&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AbishekLesley&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
 
-  <img src="https://img.shields.io/github/followers/AbishekLesley?label=Followers&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/AbishekLesley?label=Followers&style=for-the-badge&color=2563EB"/>
 
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaborations-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-Biomedical%20AI-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-16A34A?style=for-the-badge"/>
 
 </p>
 
@@ -33,24 +35,31 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://orcid.org/">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Biomedical%20Engineering-DC2626?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-059669?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embedded%20Systems-F59E0B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 
 </p>
 
----
-
 <div align="center">
 
-### 🩺 Biomedical Engineering • 🤖 Artificial Intelligence • 📊 Machine Learning • 🔬 Biomedical Signal Processing • 🔌 Embedded Systems
-
-*"Transforming physiological signals into intelligent healthcare solutions."*
+## Engineering intelligent healthcare technologies where biomedical science meets artificial intelligence.
 
 </div>
 
----
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <h1 align="center">Hi 👋, I'm LesleyBaskaradevan Abishek </h1>
 
 <h3 align="center">
