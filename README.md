@@ -733,7 +733,7 @@ Table tennis has been an important part of my personal development, teaching me 
 
 - 📧 **Email:** abisheklesley@gmail.com
 - 💻 **GitHub:** https://github.com/AbishekLesley
-- 💼 **LinkedIn:** https://www.linkedin.com/in/https://www.linkedin.com/in/abishek-l-5b7526300/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abishek-l-5b7526300/
 ---
 
 <div align="center">
