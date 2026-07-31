@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Abishek Lesley Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Abishek Lesley</h1>
+<h1 align="center">Hi 👋, I'm LesleyBaskaradevan Abishek </h1>
 
 <h3 align="center">
 Biomedical Engineering Undergraduate | AI & Machine Learning | Embedded Systems | Biomedical Signal Processing
