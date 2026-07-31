@@ -385,12 +385,11 @@ SolidWorks • LaTeX • Git • GitHub
 I continuously expand my knowledge in:
 
 - Biomedical Signal Processing
-- Artificial Intelligence for Healthcare
-- Embedded Systems
-- Medical Device Development
-- Internet of Medical Things (IoMT)
-- Deep Learning
-- Computer Vision
+- Machine Learning & Artificial Intelligence
+- Deep Learning for Healthcare
+- Physiological Signal Analysis
+- Healthcare Data Analytics
+- AI Applications in Biomedical Engineering
 
 ---
 
@@ -519,24 +518,11 @@ Engineering is more than writing code and designing circuits. I enjoy activities
 # 🤝 Connect With Me
 
 <p align="center">
-
-<a href="mailto:abisheklesley@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/AbishekLesley">
-<img src="https://img.shields.io/badge/GitHub-AbishekLesley-181717?style=for-the-badge&logo=github"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/abishek-l-5b7526300/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<a href="mailto:abisheklesley@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp&nbsp;
+<a href="https://github.com/AbishekLesley"><img src="https://img.shields.io/badge/GitHub-AbishekLesley-181717?style=for-the-badge&logo=github"/></a>&nbsp&nbsp;
+<a href="https://www.linkedin.com/in/abishek-l-5b7526300/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 ---
 
 # 📬 Contact Information
