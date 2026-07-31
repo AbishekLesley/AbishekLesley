@@ -79,13 +79,6 @@ Designing intelligent healthcare technologies through machine learning, embedded
 <img src="https://img.shields.io/badge/GitHub-AbishekLesley-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace with your LinkedIn profile URL -->
-<a href="https://www.linkedin.com/in/abishek-l-5b7526300/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=AbishekLesley&style=for-the-badge&color=blueviolet"/>
-
 </p>
 
 ---
@@ -677,13 +670,43 @@ Passionate about applying **Artificial Intelligence**, **Biomedical Signal Proce
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbishekLesley&theme=tokyonight&utcOffset=5.5" width="100%"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://streak-stats.demolab.com?user=AbishekLesley&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbishekLesley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbishekLesley&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekLesley&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbishekLesley&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbishekLesley&theme=tokyonight" width="100%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishekLesley&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </p>
 
