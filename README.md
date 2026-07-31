@@ -58,17 +58,6 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-<h1 align="center">Hi 👋, I'm LesleyBaskaradevan Abishek </h1>
-
-<h3 align="center">
-Biomedical Engineering Undergraduate | AI & Machine Learning | Embedded Systems | Biomedical Signal Processing
-</h3>
-
-<p align="center">
-Designing intelligent healthcare technologies through machine learning, embedded systems, biomedical signal processing, and electronics.
-</p>
-
 ---
 
 # 👨‍💻 About Me
