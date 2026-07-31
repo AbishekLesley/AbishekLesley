@@ -472,16 +472,6 @@ Passionate about applying **Artificial Intelligence**, **Biomedical Signal Proce
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbishekLesley&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -512,16 +502,6 @@ Engineering is more than writing code and designing circuits. I enjoy activities
 ## 💡 Philosophy
 
 > *"Engineering is about solving real-world problems through curiosity, innovation, and continuous learning."*
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-<a href="mailto:abisheklesley@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp&nbsp;
-<a href="https://github.com/AbishekLesley"><img src="https://img.shields.io/badge/GitHub-AbishekLesley-181717?style=for-the-badge&logo=github"/></a>&nbsp&nbsp;
-<a href="https://www.linkedin.com/in/abishek-l-5b7526300/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 ---
 
