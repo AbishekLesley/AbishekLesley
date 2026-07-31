@@ -39,18 +39,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-059669?style=for-the-badge&logo=scipy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Artificial%20Intelligence-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning%20for%20Healthcare-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Physiological%20Signal%20Analysis-DC2626?style=for-the-badge&logo=scipy&logoColor=white"/>
-
-</p>
-
 <div align="center">
 
 ## Advancing healthcare through Biomedical Signal Processing, Machine Learning, and Artificial Intelligence.
@@ -536,16 +524,19 @@ Engineering is more than writing code and designing circuits. I enjoy activities
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/AbishekLesley">
 <img src="https://img.shields.io/badge/GitHub-AbishekLesley-181717?style=for-the-badge&logo=github"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/abishek-l-5b7526300/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 # 📬 Contact Information
