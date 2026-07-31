@@ -49,11 +49,6 @@ I actively work on projects involving biomedical signal processing, deep learnin
 - 🤖 Machine Learning & Artificial Intelligence
 - 🧠 Deep Learning for Healthcare
 - 📈 Physiological Signal Analysis
-- ⌚ Wearable Healthcare Systems
-- 💊 Medical Device Development
-- 🔌 Embedded Systems
-- 🌐 Internet of Medical Things (IoMT)
-- 👁️ Computer Vision for Healthcare
 
 ---
 
@@ -63,7 +58,6 @@ I actively work on projects involving biomedical signal processing, deep learnin
 - 🔐 PPG-based Biometric Identification (PulsePrint)
 - 🤖 Intelligent Embedded Healthcare Systems
 - 📊 Biomedical Signal Processing Research
-- 🚀 Building a professional engineering portfolio through open-source projects
 
 ---
 
@@ -721,7 +715,7 @@ Table tennis has been an important part of my personal development, teaching me 
 <img src="https://img.shields.io/badge/GitHub-AbishekLesley-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE">
+<a href="https://www.linkedin.com/in/abishek-l-5b7526300/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
