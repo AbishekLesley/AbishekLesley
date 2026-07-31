@@ -58,21 +58,18 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
----
 
 # 👨‍💻 About Me
 
-I'm a **Biomedical Engineering undergraduate** at the **University of Moratuwa, Sri Lanka**, passionate about developing intelligent healthcare technologies by integrating **Machine Learning**, **Biomedical Signal Processing**, **Embedded Systems**, and **Software Engineering**.
+I'm a **Biomedical Engineering undergraduate** at the **University of Moratuwa, Sri Lanka**, with a strong interest in **Biomedical Signal Processing**, **Machine Learning & Artificial Intelligence**, **Deep Learning for Healthcare**, and **Physiological Signal Analysis**.
 
-My interests span biomedical artificial intelligence, physiological signal analysis, IoT-based healthcare systems, robotics, and medical device development. I enjoy transforming research ideas into practical engineering solutions by combining hardware, firmware, software, and data-driven intelligence.
-
-I actively work on projects involving biomedical signal processing, deep learning, enterprise software development, embedded systems, and PCB design while continuously expanding my knowledge of AI-driven healthcare technologies.
+I enjoy applying data-driven approaches to develop intelligent healthcare solutions and continuously explore innovative techniques in biomedical AI.
 
 ---
 
 # 🔬 Research Interests
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-059669?style=for-the-badge&logo=scipy&logoColor=white"/>
 
