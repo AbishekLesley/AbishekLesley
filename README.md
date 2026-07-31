@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&duration=3500&color=38BDF8&center=true&vCenter=true&width=850&lines=Biomedical+Engineering+Undergraduate;Artificial+Intelligence+%7C+Machine+Learning;Biomedical+Signal+Processing+Research;Embedded+Systems+Developer;Building+Next-Generation+Healthcare+Technologies"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&duration=3500&color=38BDF8&center=true&vCenter=true&width=850&lines=Biomedical+Engineering+Undergraduate;Biomedical+Signal+Processing;Machine+Learning+%26+Artificial+Intelligence;Deep+Learning+for+Healthcare;Physiological+Signal+Analysis"
       alt="Typing SVG"
     />
   </a>
@@ -41,24 +41,23 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Biomedical%20Engineering-DC2626?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-059669?style=for-the-badge&logo=scipy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-F59E0B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Artificial%20Intelligence-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning%20for%20Healthcare-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Physiological%20Signal%20Analysis-DC2626?style=for-the-badge&logo=scipy&logoColor=white"/>
 
 </p>
 
 <div align="center">
 
-## Engineering intelligent healthcare technologies where biomedical science meets artificial intelligence.
+## Advancing healthcare through Biomedical Signal Processing, Machine Learning, and Artificial Intelligence.
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <h1 align="center">Hi 👋, I'm LesleyBaskaradevan Abishek </h1>
 
@@ -103,10 +102,19 @@ I actively work on projects involving biomedical signal processing, deep learnin
 
 # 🔬 Research Interests
 
-- 🩺 Biomedical Signal Processing
-- 🤖 Machine Learning & Artificial Intelligence
-- 🧠 Deep Learning for Healthcare
-- 📈 Physiological Signal Analysis
+<p align="left">
+
+<img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-059669?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning%20for%20Healthcare-DC2626?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Physiological%20Signal%20Analysis-0EA5E9?style=for-the-badge"/>
+
+</p>
 
 ---
 
