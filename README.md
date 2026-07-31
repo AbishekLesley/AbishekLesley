@@ -1,8 +1,8 @@
-# Hi, I'm Abishek 👋
+# Hi, I'm Abishek Lesley 👋
 
-### Biomedical Engineering Undergraduate @ University of Moratuwa, Sri Lanka
+### Biomedical Engineering Undergraduate | Embedded Systems • Machine Learning • Biomedical Signal Processing
 
-#### Turning physiological signals into intelligent, data-driven insights 🩺⚡
+#### Designing intelligent biomedical and embedded systems through signal processing, AI, electronics, and product engineering.
 
 [![Email](https://img.shields.io/badge/Gmail-abisheklesley%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abisheklesley@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AbishekLesley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbishekLesley)
@@ -11,151 +11,242 @@
 
 ---
 
-## 🧭 About Me
+# 👨‍💻 About Me
 
-**Biomedical Engineering** undergraduate (CGPA: **3.765/4.00**, 4 semesters completed) in the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
+I'm a **Biomedical Engineering undergraduate** at the **University of Moratuwa, Sri Lanka**, passionate about designing intelligent healthcare technologies by combining biomedical signal processing, embedded systems, machine learning, and electronics.
 
-I'm drawn to the space where **physiological signals meet machine learning** — building complete pipelines that take raw biomedical data (like PPG) from noisy real-world recordings all the way to validated, publication-ready results.
+I enjoy taking engineering ideas from concept to working prototypes by integrating hardware, firmware, software, and AI into practical solutions.
 
-- 🔬 Currently building signal-processing + ML pipelines for physiological signal quality assessment
-- 📊 Comfortable across the full research pipeline: preprocessing → feature engineering → model training → external validation
-- 🏓 Competitive table tennis player alongside my engineering work
+My current interests include:
 
----
-
-## 🚀 Featured Project
-
-### 🩺 [PPG Signal Quality Assessment](https://github.com/AbishekLesley/PPG-Quality-Assessment)
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/AbishekLesley/PPG-Quality-Assessment)
-[![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=flat-square)](https://github.com/AbishekLesley/PPG-Quality-Assessment)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/AbishekLesley/PPG-Quality-Assessment)
-
-**Problem** — Photoplethysmography (PPG) signals from wearables are highly prone to motion artifacts, sensor displacement, and noise, making automated signal-quality screening essential before any downstream physiological analysis.
-
-**Approach**
-- Built a full preprocessing pipeline (bandpass + notch filtering, normalization, segmentation) for raw PPG recordings
-- Engineered time-domain, frequency-domain, and signal-quality features, followed by statistical feature selection
-- Trained and compared **7 supervised ML classifiers** (Logistic Regression, Random Forest, SVM, Gradient Boosting, and others) with cross-validation and hyperparameter tuning
-- **Externally validated** the trained model on an independent clinical dataset (BIDMC) after training on the BUT PPG Dataset — testing real generalization, not just in-sample accuracy
-- Ran Mann–Whitney U statistical comparisons and PCA visualizations across datasets
-
-**Why it matters** — Most student ML projects stop at a single dataset's accuracy score. This one is built to survive contact with a dataset it never saw during training.
+- 🩺 Biomedical Signal Processing
+- 🤖 Machine Learning & Artificial Intelligence
+- 🔌 Embedded Systems & IoT
+- 💻 PCB Design & Electronics
+- 📈 Medical Device Development
+- 📊 Physiological Data Analytics
 
 ---
 
-## 🔬 Other Notable Projects
+# 🚀 Featured Projects
 
-### 🧬 PPG-Based Biometric Identification System
+## 🩺 PPG Signal Quality Assessment
 
-`Python` · `Machine Learning` · `Signal Processing` · `Scikit-learn` · `NumPy` · `Pandas`
+**Python • Signal Processing • Machine Learning • Scikit-learn**
 
-- Developed a biometric authentication system using Photoplethysmography (PPG) signals
-- Built preprocessing, feature extraction, and classification pipelines for subject identification
-- Applied machine learning to distinguish individuals using physiological signal characteristics
-- Evaluated identification performance using standard classification metrics
+A complete research-oriented pipeline for automated photoplethysmography (PPG) signal quality assessment.
 
-### 💉 Temperature-Controlled Vaccine Cold Chain Monitoring System
+### Highlights
 
-`Arduino` · `IoT Sensors` · `Embedded Systems`
+- Complete preprocessing pipeline
+- Feature engineering (time, frequency & signal-quality)
+- Statistical feature selection
+- Compared **7 supervised machine learning models**
+- Hyperparameter optimization
+- Cross-validation
+- External validation using the **BIDMC clinical dataset**
+- Mann–Whitney U statistical analysis
+- PCA visualization
 
-- Designed an embedded system for continuous vaccine storage temperature monitoring
-- Integrated temperature sensors with a microcontroller for real-time environmental monitoring
-- Generated alerts when storage temperatures exceeded predefined safety thresholds
-- Improved reliability of vaccine transportation through automated monitoring
+**Repository**
 
-### 🌡️ Hot and Cold Compression Therapy Device
-
-`Embedded Systems` · `Electronic Circuit Design`
-
-- Designed a portable therapeutic device providing controlled heating and cooling treatment
-- Implemented temperature regulation circuitry for safe therapeutic operation
-- Optimized thermal control for user comfort and consistent treatment performance
-
-### 💓 Pulse Detection Monitor
-
-`Arduino` · `Pulse Sensor` · `Embedded Programming`
-
-- Developed a real-time pulse monitoring system using optical sensing
-- Processed sensor outputs to calculate heart rate accurately
-- Displayed live physiological measurements through an embedded interface
-
-### 🤖 Automated Restaurant Line Following Robot
-
-`Arduino` · `Robotics` · `Motor Control` · `IR Sensors`
-
-- Designed an autonomous line-following robot for automated food delivery
-- Implemented sensor-based navigation using infrared line detection
-- Integrated motor control algorithms for accurate path tracking
-- Improved navigation stability through real-time feedback control
-
-### 🔌 Stable Adjustable DC Power Supply
-
-`Analog Electronics` · `PCB Design`
-
-- Designed a regulated DC power supply with adjustable voltage output
-- Implemented voltage regulation and protection circuits for stable operation
-- Tested output stability under varying load conditions
+🔗 https://github.com/AbishekLesley/PPG-Quality-Assessment
 
 ---
 
-## 🛠️ Tech Stack
+## 🔐 PulsePrint
 
-**Languages**
+**Deep Learning • Biometrics • Physiological Signals**
 
+A deep learning-based biometric identification system using Photoplethysmography (PPG) signals for person identification.
+
+### Highlights
+
+- End-to-end biometric pipeline
+- Signal preprocessing
+- Deep learning architecture
+- Physiological authentication
+- Modular research framework
+
+🔗 https://github.com/AbishekLesley/PulsePrint
+
+---
+
+## 🤖 Restaurant Robot
+
+**Embedded Systems • Robotics • PCB Design • Mobile App**
+
+Designed and developed an autonomous restaurant service robot capable of food delivery using magnetic path navigation.
+
+### Highlights
+
+- ESP32-S3 & STM32 dual-controller architecture
+- Magnetic Hall sensor navigation
+- PID motion control
+- Custom Altium PCB
+- Mobile application integration
+- Autonomous charging dock
+- Obstacle detection
+- Wireless communication
+
+---
+
+# ⚙️ Engineering Projects
+
+## 🌡️ Smart Vaccine Temperature Monitoring System
+
+**ESP32 • ESP8266 • IoT • Embedded Systems**
+
+- Wireless vaccine cold-chain monitoring
+- ESP-NOW communication
+- OLED dashboard
+- Configurable safety thresholds
+- Battery-powered embedded system
+
+---
+
+## ❄️ CryoThermX
+
+**Medical Device Design • Electronics**
+
+Portable hot & cold compression therapy device with electronic temperature regulation for controlled therapeutic treatment.
+
+---
+
+## ❤️ Pulse Detection Monitor
+
+**Arduino • Biomedical Sensors**
+
+Real-time pulse monitoring system using optical sensing and embedded signal processing.
+
+---
+
+## 🔋 Adjustable DC Power Supply
+
+**Analog Electronics • PCB Design**
+
+Designed a regulated adjustable DC power supply with voltage regulation and protection circuitry.
+
+---
+
+# 🛠 Technical Skills
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**Design & Simulation Tools**
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium_Designer-A59A5F?style=flat-square)
-![OMNeT++](https://img.shields.io/badge/OMNeT++-003366?style=flat-square)
-
-**Documentation**
-
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 
 ---
 
-## 🎓 Education
+## Machine Learning & Data Science
 
-**B.Sc. (Hons) in Biomedical Engineering** — University of Moratuwa · *2025 – Present*
-Department of Electronic and Telecommunication Engineering
-CGPA: **3.765 / 4.00** (4 semesters completed)
-
-**G.C.E. Advanced Level** — Jaffna Hindu College, Sri Lanka
-3A's (Physical Science) · District Rank 02 · Island Rank 103 · Z-score 2.662
-
-**G.C.E. Ordinary Level** — 8A, C
-
----
-
-## 🏆 Leadership & Achievements
-
-| Role / Achievement | Organization | Period |
-|---|---|---|
-| Prefect | Jaffna Hindu College | 2021–2023 |
-| Secretary, Table Tennis Old Boys' Association | Jaffna Hindu College | 2024–Present |
-| President, Table Tennis Club | Jaffna Hindu College | 2021 |
-| Member, Outgoing Global Volunteer (oGV) Team | AIESEC, University of Moratuwa | Present |
-
-**🏓 Table Tennis**
-- Provincial Champion (U17 2019, U21 2021 & 2022) — 3 times
-- National Quarterfinalist (U17 2019, U21 2021) — 2 times
-- Runner-up, All Island Table Tennis Association Tournament — E Division (2021)
-- Champion, All Island Table Tennis Association Tournament — D Division (2022)
+- Scikit-learn
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Feature Engineering
+- Cross Validation
+- Hyperparameter Optimization
 
 ---
 
-## 🤝 Looking Ahead
+## Embedded Systems
 
-I'm looking to grow into biomedical signal processing, embedded systems, and machine learning for healthcare applications — building on the full pipeline discipline (preprocessing → features → models → external validation) from my current project.
+- ESP32
+- ESP8266
+- STM32
+- Arduino
+- Embedded C
+- IoT
+- Sensor Integration
 
-Always open to discuss a project, a paper, or a collaboration.
+---
 
-📧 **abisheklesley@gmail.com**
+## Electronics
 
+- PCB Design
+- Altium Designer
+- Circuit Design
+- Power Electronics
+- Analog Electronics
+
+---
+
+## CAD & Engineering Tools
+
+- SolidWorks
+- Git
+- GitHub
+- LaTeX
+
+---
+
+# 🎓 Education
+
+## University of Moratuwa
+
+**B.Sc. (Hons) Biomedical Engineering**
+
+Department of Electronic & Telecommunication Engineering
+
+**CGPA:** **3.765 / 4.00**
+
+---
+
+## G.C.E. Advanced Level
+
+Jaffna Hindu College
+
+- 3A's (Physical Science)
+- District Rank 02
+- Island Rank 103
+- Z-Score: 2.662
+
+---
+
+# 🏆 Highlights
+
+🎓 Biomedical Engineering Undergraduate
+
+🧠 Research interests in Biomedical AI and Signal Processing
+
+📈 CGPA 3.765 / 4.00
+
+⚙️ Experience spanning
+
+- Machine Learning
+- Biomedical Signal Processing
+- Embedded Systems
+- PCB Design
+- Robotics
+- Medical Device Development
+
+🏓 Provincial Table Tennis Champion
+
+---
+
+# 🌱 Currently Working On
+
+- PPG Signal Quality Assessment
+- Deep Learning for PPG Biometrics
+- Biomedical Signal Processing Research
+- Intelligent Medical Devices
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**abisheklesley@gmail.com**
+
+💻 **GitHub**
+
+https://github.com/AbishekLesley
+
+---
+
+> *"Engineering is where mathematics meets creativity, and ideas become technologies that improve lives."*
