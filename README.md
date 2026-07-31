@@ -298,10 +298,6 @@ Designed and implemented a stable regulated DC power supply for laboratory and e
 
 ---
 
-# 💻 Technical Skills
-
----
-
 ## 👨‍💻 Programming Languages
 
 <p align="left">
