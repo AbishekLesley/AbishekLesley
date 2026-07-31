@@ -1,6 +1,55 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,50:2A5298,100:6DD5FA&height=220&section=header&text=Abishek%20Lesley&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
 <p align="center">
-  <img src="assets/banner.png" alt="Abishek Lesley Banner" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=3AA6FF&center=true&vCenter=true&width=800&lines=Biomedical+Engineering+Undergraduate;Machine+Learning+%7C+Biomedical+AI;PPG+Signal+Processing+Research;Embedded+Systems+%7C+Medical+Device+Development;Building+Intelligent+Healthcare+Technologies"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=AbishekLesley&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/followers/AbishekLesley?label=Followers&style=for-the-badge&color=2563EB"/>
+
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaborations-0EA5E9?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="mailto:abisheklesley@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abishek-l-5b7526300/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AbishekLesley">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🩺 Biomedical Engineering • 🤖 Artificial Intelligence • 📊 Machine Learning • 🔬 Biomedical Signal Processing • 🔌 Embedded Systems
+
+*"Transforming physiological signals into intelligent healthcare solutions."*
+
+</div>
+
+---
 
 <h1 align="center">Hi 👋, I'm LesleyBaskaradevan Abishek </h1>
 
