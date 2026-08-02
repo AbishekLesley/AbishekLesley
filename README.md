@@ -401,7 +401,8 @@ SolidWorks • LaTeX • Git • GitHub
 ---
 
 ## 🏅 Machine Learning Specialization 
-[View Certificate](https://coursera.org/share/62cf2752338e724159ce56de5342d9b0)
+🔗 **Credential:**  
+[View Certificate](https://coursera.org/share/c074f309520de13901f6030914c5f7b7)
 
 **DeepLearning.AI & Stanford University**
 
