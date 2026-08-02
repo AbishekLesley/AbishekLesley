@@ -55,6 +55,16 @@ I enjoy applying data-driven approaches to develop intelligent healthcare soluti
 
 ---
 
+# 🎓 Current Position
+
+- Third-Year Biomedical Engineering Undergraduate
+- Department of Electronic and Telecommunication Engineering
+- University of Moratuwa, Sri Lanka
+- CGPA: **3.76 / 4.00**
+- Dean's List Recipient (Semester 1 & Semester 2)
+
+---
+
 # 🔬 Research Interests
 
 <p align="center">
@@ -128,6 +138,25 @@ A biometric identification system that authenticates individuals using unique Ph
 ### 🛠 Technologies
 
 `Python` `TensorFlow` `Deep Learning` `Machine Learning`
+
+---
+
+## 🧠 Modelling of Physiological Systems
+
+> **MATLAB • Simulink • Computational Physiology**
+
+A collection of computational physiology models developed for biomedical engineering coursework, covering respiratory, cardiac, and neural system simulations.
+
+### 🔹 Includes
+
+- Simulation of Respiratory Mechanics
+- Analysis of Cardiac Physiology
+- Electrical Properties of Branching Dendrites
+- Hodgkin–Huxley Neuron Model
+
+### 🛠 Technologies
+
+`MATLAB` `Simulink` `Python`
 
 ---
 
@@ -251,6 +280,30 @@ Designed an analog reflection-mode PPG heart rate sensor capable of measuring pu
 
 ---
 
+## 🔌 FPGA UART Transceiver
+
+> **Verilog • FPGA • Digital Design**
+
+Designed and implemented a full-duplex UART transceiver in Verilog for Intel/Altera FPGA platforms.
+
+### 🔹 Highlights
+
+- UART transmitter
+- UART receiver
+- Modular RTL architecture
+- FPGA implementation
+- ModelSim verification
+- Quartus Prime synthesis
+
+### 🛠 Technologies
+
+`Verilog HDL`
+`Quartus Prime`
+`ModelSim`
+`FPGA`
+
+---
+
 
 ## 🔋 Stable Adjustable DC Power Supply
 
@@ -351,11 +404,46 @@ SolidWorks • LaTeX • Git • GitHub
 
 **DeepLearning.AI & Stanford University**
 
-🔗 **Credential**
+**Status:** ✅ Completed
 
-[View Certificate](https://coursera.org/share/62cf2752338e724159ce56de5342d9b0)
+### 📚 Courses Completed
+
+#### 1. Supervised Machine Learning: Regression and Classification
 
 **Instructor:** Andrew Ng
+
+🔗 **Credential:**  
+[View Certificate](https://coursera.org/share/62cf2752338e724159ce56de5342d9b0)
+
+---
+
+#### 2. Advanced Learning Algorithms
+
+**Instructor:** Andrew Ng
+
+🔗 **Credential:**  
+[View Certificate](https://coursera.org/share/4a5e2d863318157c4b342002f4a61f2a)
+
+---
+
+#### 3. Unsupervised Learning, Recommenders, and Reinforcement Learning
+
+**Instructor:** Andrew Ng
+
+🔗 **Credential:**  
+[View Certificate](https://coursera.org/share/7830dda9676ff20c2dd3492161214a4b)
+
+---
+
+## 📖 Currently Learning
+
+### Neural Networks and Deep Learning
+
+**DeepLearning.AI**
+
+**Status:** 🚧 In Progress
+
+---
 
 ### 📚 Topics Covered
 
@@ -399,7 +487,7 @@ I continuously expand my knowledge in:
 
 ## 🎓 Academic Excellence
 
-- 🥇 **Current CGPA:** **3.765 / 4.00**
+- 🥇 **Current CGPA:** **3.76 / 4.00**
 - 🏅 **Bachelor of Science (Hons) in Biomedical Engineering**
 - 🏛️ University of Moratuwa
 
